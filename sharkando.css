@@ -1,0 +1,49 @@
+.portada{
+    background: url(../../data/sharkando.jpg);
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+      
+}
+
+.titulo{
+    font-size: 100px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pelicula{
+    height: 600px;
+    width: 500px;
+    padding-left: 100px;
+}
+
+h1{
+    font-size: 50px;
+    padding-left: 100px;
+}
+
+h2{
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.contenido{
+    flex-direction: column;
+    padding-right: 200px;
+    padding-left: 100px;
+}
+
+p{
+    text-align: justify;
+    font-size: 20px;
+    padding-left: 100px;
+}
+
+.cajacriticas{
+    border: 0px solid;
+    margin: 10px;
+    padding: 5px;
+}
